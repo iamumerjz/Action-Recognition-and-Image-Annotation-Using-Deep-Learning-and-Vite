@@ -52,15 +52,16 @@
 ## 🎥 Demo
 
 ### Web Application
-![Demo Screenshot](https://via.placeholder.com/800x400?text=Add+Your+Screenshot+Here)
+
+<p align="center">
+  <img width="800" alt="Web Application Screenshot" src="https://github.com/user-attachments/assets/252e08d6-e95c-4f3f-9306-3b42ca887bdd" />
+</p>
 
 ### Sample Predictions
 
-| Input Image | Action Recognition | Generated Caption |
-|-------------|-------------------|-------------------|
-| ![Sample 1](https://via.placeholder.com/150) | **Riding a Bike** (94%) | "A person riding a bicycle on a street" |
-| ![Sample 2](https://via.placeholder.com/150) | **Playing Guitar** (89%) | "A man playing guitar in a room" |
-| ![Sample 3](https://via.placeholder.com/150) | **Cooking** (91%) | "A woman cooking food in a kitchen" |
+<p align="center">
+  <img width="800" alt="Web Application Screenshot" src="https://github.com/user-attachments/assets/af01a911-be1e-456b-8119-b13e1c388261" />
+</p>
 
 ---
 
