@@ -18,7 +18,7 @@
 
 ## 📋 Table of Contents
 
-- [Features](#features)
+- [Features](#-features)
 - [Demo](#-demo)
 - [Architecture](#-architecture)
 - [Approach](#-approach)
@@ -33,7 +33,7 @@
 - [Acknowledgments](#-acknowledgments)
 
 ---
-<a id="#features"></a>
+
 ## ✨ Features
 
 - **🎬 Action Recognition**: Identifies 40 different human actions from static images
